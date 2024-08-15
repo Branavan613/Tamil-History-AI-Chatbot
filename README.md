@@ -16,6 +16,7 @@ A lot of Sri Lankan history isn't pretty, and it isn't largely shared. Due to ce
 ```bash
 git clone https://github.com/your-username/Tamil-History-AI-chatbot.git
 cd Tamil-History-AI-history-chatbot
+```
 
 2. Install the required dependencies:
 Ensure you have Python 3.8+ installed. Then, download the dependencies from the requirements.txt file:
@@ -31,6 +32,7 @@ Follow the instructions on the Ollama GitHub page or the official website to ins
 6. After installing ollama, run the following command to pull the nomic-embed-text model:
 ```bash
 ollama pull nomic-embed-text
+```
 
 ## Usage
 
