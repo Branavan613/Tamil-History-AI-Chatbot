@@ -70,3 +70,8 @@ The project relies on the following Python libraries:
 - **`langchain`, `langchain_community`, `langchain_huggingface`:** For text processing, embedding generation, and model integration.
 - **`ollama`:** For generating embe
 
+## Contributing
+Contributions are welcome! Please submit a pull request or open an issue for any suggestions or improvements.
+
+## License
+This project is licensed under the MIT License. 
