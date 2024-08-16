@@ -1,0 +1,7 @@
+asyncio
+groq
+langchain_community
+langchain
+langchain_huggingface
+ollama
+chromadb
